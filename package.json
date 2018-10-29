@@ -1,0 +1,23 @@
+{
+  "name": "WebTutor",
+  "version": "1.0.0",
+  "description": "Simple Math Games",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:NikkiDreams/WebTutor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com:NikkiDreams/WebTutor.git/issues"
+  },
+  "homepage": "https://github.com:NikkiDreams/WebTutor.git#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
